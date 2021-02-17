@@ -7,6 +7,12 @@ Your main goal is to escape a dungeon but the only way to escape the dungeon is 
 
 P.S. There are Deltarune references
 
+# Requirements
+
+* A Computer or laptop
+
+* Python 3.8.1 or Python 3
+
 # How to run the game
 
 First download this repository in a compressed folder like the picture shown below:

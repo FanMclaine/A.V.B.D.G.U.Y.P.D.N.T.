@@ -5,8 +5,6 @@ A.V.B.D.G.U.Y.P.D.N.T. stands for A Very Boring Dungeon Game Unless You Picked D
 A dungeon game but its not 3d nor 2d it is a text adventure or something
 Your main goal is to escape a dungeon but the only way to escape the dungeon is to pick three doors which all leads to the exit but with a twist.
 
-P.S. There are Deltarune references
-
 # Requirements
 
 * A Computer or laptop
@@ -34,6 +32,14 @@ Lastly, double click the python file then enjoy!
 
 Or you know, just copy the source code then pate it in your IDE or Python's IDLE to run it
 
-# Bonus
+# Post-Script
+
+There are Deltarune references
+
+
+
+
+
+
 
 Toby fox, if you are reading the P.S. above or the thing in the code file please dont sue me.

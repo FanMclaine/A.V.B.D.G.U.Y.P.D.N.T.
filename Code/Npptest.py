@@ -41,9 +41,9 @@ elif Doors == "3":
     print()
     input("")
     print()
-    print("[Deltarune OST: Lancer's Theme starts playing]")
+    print("[Deltarune OST: Rude Buster starts playing]")
     print()
-    print("Ralsri: Uhmmmm... the statue just put us in a spell, we're so fucked")
+    print("Ralsei: Bloody hell innit the fokin statue put a spell on us, oh bollocks")
     input("")
     print()
     print("WHAHAHAHAHA, fellow mortals, i would like you to read my mind; Im thinking of a number between 1-200.")
@@ -51,18 +51,18 @@ elif Doors == "3":
     print("If you guessed my number; you can escape this dungeon. If you did not guessed my number; I will put your soul in an endless loop!")
     print()
     input("")
-    print("Ralsri: Oh for fuck's sake. Let us out or i will fucking sabotage you!")
+    print("Ralsei: Oi bruv dont fokin mess with us innit")
     input("")
     print("'Oooooh brave!' says the statue 'Well i should start the game now! whahahahahha!")
     print()
-    guess = int(input("Ralsri: C'mon PLAYER1 pick a number> "))
+    guess = int(input("Ralsei: Bloody hell innit choose a fokin number> "))
     while guess != number:
         if guess < number:
             print("'Ha! PUSSIES' says the statue")
         else:
             print("'Ha! PUSSIES' says the statue")
     print("'Congratulation mortals! im going to lead you to the exit'")
-    print("Ending got: Rude Ralsri (Bad)")
+    print("Ending got: Rude Ralsei (Bad)")
    
    #Welll 
    #We are near to 69 

@@ -32,5 +32,8 @@ Lastly, double click the python file then enjoy!
 
 ![alt text](https://github.com/FanMclaine/A.V.B.D.G.U.Y.P.D.N.T./blob/main/Screenshots/step_4.png?raw=true)
 
+Or you know, just copy the source code then pate it in your IDE or Python's IDLE to run it
+
+# Bonus
 
 Toby fox, if you are reading the P.S. above or the thing in the code file please dont sue me.

@@ -3,7 +3,7 @@
 A.V.B.D.G.U.Y.P.D.N.T. stands for A Very Boring Dungeon Game Unless You Picked Door Number Three
 
 A dungeon game but its not 3d nor 2d it is a text adventure or something
-Your main goal is to escape a dungeon but the only way to escape the dungeon is to pick which three doors is the safest to escape or uhmmmm idk i suck at english grammars
+Your main goal is to escape a dungeon but the only way to escape the dungeon is to pick three doors which all leads to the exit but with a twist.
 
 P.S. There are Deltarune references
 
@@ -25,5 +25,6 @@ I think you also need to download Python 3.8.2 or Python 3
 Lastly, double click the python file then enjoy!
 
 ![alt text](https://github.com/FanMclaine/A.V.B.D.G.U.Y.P.D.N.T./blob/main/Screenshots/step_4.png?raw=true)
+
 
 Toby fox, if you are reading the P.S. above or the thing in the code file please dont sue me.

@@ -41,7 +41,6 @@ elif Doors == "3":
     print()
     input("")
     print()
-    print("[Deltarune OST: Rude Buster starts playing]")
     print()
     print("Ralsei: Bloody hell innit the fokin statue put a spell on us, oh bollocks")
     input("")
@@ -66,4 +65,5 @@ elif Doors == "3":
    
    #Welll 
    #We are near to 69 
-   #yay! 
+   #yay!
+#removed cringer
